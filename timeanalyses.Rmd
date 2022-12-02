@@ -1,0 +1,11 @@
+---
+title: "Time Analyses"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+Shootings over time
+We wanted to see the longitudinal changes in shootings by borough. This is represented in the stacked bar graph below. 
