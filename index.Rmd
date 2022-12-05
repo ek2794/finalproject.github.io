@@ -8,8 +8,7 @@ output:
     theme: cerulean
 ---
  
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+
 ```
 Welcome to our final project website for p8105!
  
